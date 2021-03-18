@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=EvAtsI59Gyc&t=25s
+https://create.arduino.cc/projecthub/sumanskd/simulation-of-home-automation-project-using-arduino-bf4f56?fbclid=IwAR2BNIuuayLELERdtx9a6BB90tgEgyy6kOnm3RRAOOhONiFLEFSgXF-6BWk
+https://github.com/the-dagger/Arduino-Projects/blob/master/Arduino%20Codes/homeAutomation.ino?fbclid=IwAR1KQgC5oa8zUVQTpPAUYIGcbyQcIT4s3RVgJEvnPPIFjkdJ1YLEwL7NLx4
+https://www.arduino.cc/reference/en/language/functions/communication/serial/available/?fbclid=IwAR27qrAplfqOtHv-Obj1v9rkgqx1z92SU0c2g7y0IzVmdUzevUDSzRT9rME
